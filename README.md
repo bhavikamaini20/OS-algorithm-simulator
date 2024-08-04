@@ -1,4 +1,6 @@
 # OS-algorithm-simulator
+
+Website link: https://bhavikamaini20.github.io/OS-algorithm-simulator/
 All the cpu scheduling algorithms in one place
 #FCFS #SJF #RoundRobin #SRTF #Priority #CPU Scheduling Algorithm
 
